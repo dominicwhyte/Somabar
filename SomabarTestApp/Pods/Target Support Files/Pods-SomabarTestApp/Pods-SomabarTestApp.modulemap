@@ -1,0 +1,6 @@
+framework module Pods_SomabarTestApp {
+  umbrella header "Pods-SomabarTestApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
